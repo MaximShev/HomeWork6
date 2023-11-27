@@ -51,5 +51,6 @@ public class Main {
     for (int g = 1; g <= 10; g++) {
         System.out.println(f + "*" + g + "=" + (f*g));
     }
+/// Задания выполнены
     }
 }
